@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.95 80.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #d22026;
+        stroke-width: 7.89px;
+      }
+
+      .cls-2 {
+        fill: #d22026;
+      }
+    </style>
+  </defs>
+  <path id="imagebot_13" data-name="imagebot 13" class="cls-1" d="M9.31,3.95h63.32c2.96,0,5.37,2.35,5.37,5.24v61.91c0,2.89-2.4,5.24-5.37,5.24H9.31c-2.96,0-5.37-2.35-5.37-5.24V9.19c0-2.89,2.4-5.24,5.37-5.24Z"/>
+  <path id="imagebot_12" data-name="imagebot 12" class="cls-2" d="M66.32,40.14c0,14.19-11.35,25.69-25.35,25.69s-25.35-11.5-25.35-25.69S26.97,14.46,40.97,14.46s25.35,11.5,25.35,25.69Z"/>
+</svg>

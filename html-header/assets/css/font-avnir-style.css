@@ -1,0 +1,6 @@
+   @font-face {
+    font-family: 'Avenir Roman';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Roman'), url('../../assets/fonts/avenir_roman_12.woff') format('woff');
+    }
